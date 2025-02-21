@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizbek-777/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/azizbek-777/express/issues"
+  },
+  "homepage": "https://github.com/azizbek-777/express#readme"
+}
