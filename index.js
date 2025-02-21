@@ -3,7 +3,11 @@ const express = require('express')
 const app = express()
 
 app.get('/', (req, res) => {
-    res.send('Express JS on Vercel')
+    res.json({
+        id: 1,
+        first_name: "Turdibek",
+        age: 20,
+    })
 })
 
 app.get('/ping', (req, res) => {
